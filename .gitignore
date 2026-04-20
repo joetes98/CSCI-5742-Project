@@ -1,0 +1,5 @@
+data/*
+!data/df_reduced.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
