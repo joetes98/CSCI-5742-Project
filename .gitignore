@@ -6,3 +6,7 @@ __pycache__/
 *.pyc
 sev_mapping.py
 Report/
+*.pdf
+*.png
+*.mp4
+baselines.ipynb
